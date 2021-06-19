@@ -1,4 +1,6 @@
 # Project-One
+https://docs.google.com/document/d/16SexDpvc7MrW17IevZPwtHD-7E9aTa0L_NFSW9EkLJM/edit?usp=sharing 
+
 This repository highlights work from the first half of Cybersecurity Bootcamp training.
 Elk-Stack-Project
 
